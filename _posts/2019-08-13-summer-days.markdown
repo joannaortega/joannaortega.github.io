@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Summer Days"
-date:   2019-08-13 16:37:55 +0300
-image:  11.jpg
-tags:   [pool], [best-friends], [kiss]
+title: "Summer Days"
+date:  2019-08-13 16:37:55 +0300
+image: 11.jpg
+tags: [pool],[kiss],[best-friends]
 ---
 When I met her, she had pigtails on. She was on the monkey bars, higher above the ground than her height, or so I thought at the time. When you’re five, everything seems huge and everyone seems old. But not Millie. She was smaller than I was and young and careless. Straight after that, she ran to the swings near my teenage brother and his friends. She just started swinging around. Even I didn’t get near my oldest brother when he was with his friends.
 
