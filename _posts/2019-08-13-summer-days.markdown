@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Days"
-date:  2019-08-13 16:37:55 +0300
+date: 2019-08-13 16:37:55 +0300
 image: 11.jpg
 tags: [pool],[kiss],[best-friends]
 ---
