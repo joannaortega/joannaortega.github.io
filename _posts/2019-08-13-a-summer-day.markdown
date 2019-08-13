@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Another Summer Day"
+title:  "A Summer Day"
 date:   2019-08-13 17:51:55 +0300
 image:  11.jpg
 tags:   [pool], [best-friend], [kiss]
