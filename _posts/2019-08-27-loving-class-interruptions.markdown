@@ -7,7 +7,7 @@ tags:   [mother, daughter]
 ---
 My phone buzzed, at around 9:30 am everyday. I knew who it was without looking. She knew I had class, or work. She knew I was fine, but she had this need to always check in. She always needed confirmation that I was alive and okay. 
 
-Mom: Good morning, honey!
+    Mom: Good morning, honey!
 
 I paused for a second and decided to send the answers to her questions in one text. 
 		
@@ -25,7 +25,7 @@ Mom cried after visiting all the time, just as grandma did over her. And she lov
 
 And before the guilty feelings could swallow me whole because I knew that other people had parents who didn’t love them enough, I pulled out my phone to send out a text: 
 
-Me: Mom, I love you. I’ll call you after class at the end of the day
+    Me: Mom, I love you. I’ll call you after class at the end of the day
 
 A second later:
 
