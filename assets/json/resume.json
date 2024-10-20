@@ -26,11 +26,11 @@
     {
       "name": "ConnectionPoint, Maximus",
       "position": "Specialist, Product Documentation",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "url": "https://maximus.com",
+      "startDate": "2024-01-08",
+      "endDate": "present",
       "summary": "Product Documentation and Onboarding training.",
-      "highlights": ["Relativity"]
+      "highlights": ["Documentation"]
     }
   ],
   "volunteer": [
@@ -48,37 +48,36 @@
   "education": [
     {
       "institution": "Texas A&M University",
-      "location": "College Station, Texas, United States",
-      "url": "https://www.uzh.ch/",
+      "location": "College Station, Texas",
+      "url": "https://www.tamu.edu/",
       "area": "English",
       "studyType": "Bachelor of Arts",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2015-09-01",
+      "endDate": "2018-12-20",
+      "courses": ["Technical Writing, Creative Writing"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
+      "title": "TBD",
       "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "awarder": "TBD",
+      "url": "TBD",
+      "summary": "TBD"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "TBD",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "TBD",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Teleportation",
+      "name": "TBD",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "TBD",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
     }
@@ -86,7 +85,7 @@
   "publications": [
     {
       "name": "Las Aventuras de Uncle Sam & Alex: De Camino a la Ciudadanía",
-      "publisher": "Annalen der Physik",
+      "publisher": "Monty & Ramirez, Barri, La Michoacana",
       "releaseDate": "2021-06-30",
       "url": "https://www.montyramirezlaw.com/the-road-to-citizenship-begins-with-preparation-and-study/",
       "summary": "Spanish novela created to teach the citizenship exam questions to Spanish speakers."
@@ -106,11 +105,10 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Technical Writing",
-        "Dreative Writing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Creative Writing",
+        "GitHub",
+        "Product Documentation",
+        "Policy and Procedure Documentation",
       ]
     }
   ],
@@ -128,7 +126,7 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Writing",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics",
