@@ -4,7 +4,7 @@
     "label": "Technical Writer",
     "image": "",
     "email": "joannaiortega@yahoo.com",
-    "phone": "(912) 123-4567",
+    "phone": "(123) 123-4567",
     "url": "https://joannaortega.github.io/",
     "summary": "Writer: Technical by Day, Creative by Night",
     "location": {
@@ -31,18 +31,6 @@
       "endDate": "present",
       "summary": "Product Documentation and Onboarding training.",
       "highlights": ["Documentation"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
@@ -89,13 +77,6 @@
       "releaseDate": "2021-06-30",
       "url": "https://www.montyramirezlaw.com/the-road-to-citizenship-begins-with-preparation-and-study/",
       "summary": "Spanish novela created to teach the citizenship exam questions to Spanish speakers."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
