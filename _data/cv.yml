@@ -44,13 +44,6 @@
         - Procedure Documentation.
         - Product Documentation
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: Las Aventuras de Uncle Sam & Alex: De Camino a la Ciudadanía
-      year: 2021
-      description: Spanish novela created to teach the citizenship exam questions to Spanish speakers.
-
 - title: Academic Interests
   type: nested_list
   contents:
