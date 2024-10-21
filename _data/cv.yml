@@ -47,20 +47,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://www.montyramirezlaw.com/the-road-to-citizenship-begins-with-reparation-and-study/">Las Aventuras de Uncle Sam & Alex: De Camino a la Ciudadanía</a>
+    - title: Las Aventuras de Uncle Sam & Alex: De Camino a la Ciudadanía
       year: 2021
       description: Spanish novela created to teach the citizenship exam questions to Spanish speakers.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 
-      items:
-        - 
-        - 
-    - year:
-      items:
-        - 
 
 - title: Academic Interests
   type: nested_list
