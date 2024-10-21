@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Joanna
-middle_name: 
+middle_name: I
 last_name: Ortega
 email: joannaiortega@yahoo.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -162,7 +162,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
