@@ -8,9 +8,6 @@
     "url": "https://joannaortega.github.io/",
     "summary": "Writer: Technical by Day, Creative by Night",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
       "countryCode": "US",
       "region": "Texas"
     },
@@ -28,7 +25,7 @@
       "position": "Specialist, Product Documentation",
       "url": "https://maximus.com",
       "startDate": "2024-01-08",
-      "endDate": "present",
+      "endDate": "",
       "summary": "Product Documentation and Onboarding training.",
       "highlights": ["Documentation"]
     }
@@ -45,15 +42,6 @@
       "courses": ["Technical Writing, Creative Writing"]
     }
   ],
-  "awards": [
-    {
-      "title": "TBD",
-      "date": "1921-11-01",
-      "awarder": "TBD",
-      "url": "TBD",
-      "summary": "TBD"
-    }
-  ],
   "certificates": [
     {
       "name": "TBD",
@@ -61,13 +49,6 @@
       "issuer": "TBD",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "TBD",
-      "date": "2018-01-01",
-      "issuer": "TBD",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
