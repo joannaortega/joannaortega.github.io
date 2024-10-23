@@ -30,7 +30,14 @@
       "startDate": "2024-01-08",
       "endDate": "",
       "summary": "Product Documentation and Onboarding Courses",
-      "highlights": [""]
+    },
+   {
+      "name": "Texas Enrollment Broker, Maximus",
+      "position": "Specialist, Operations Policy and Procedures",
+      "url": "https://maximus.com",
+      "startDate": "2019-03-11",
+      "endDate": "2024-01-05",
+      "summary": "Policy and Procedure Documentation",
     }
   
   ],
@@ -40,28 +47,10 @@
       "location": "College Station, TX, US",
       "url": "https://www.tamu.edu",
       "area": "English",
-      "studyType": "BA",
+      "studyType": "Bachelor of Arts",
       "startDate": "2015-09-01",
       "endDate": "2018-12-01",
-      "courses": ["Technical and Professional Writing", "Digital AUthoring Practices"]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": "fa-solid fa-location-dot"
-    }
-  ],
-  "publications": [
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
+      "courses": ["Technical and Professional Writing", "Digital Authoring Practices"]
     }
   ],
   "skills": [
@@ -98,13 +87,6 @@
         "Professional",
         "Creative"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "icon": "fa-solid fa-laptop",
-      "reference": ""
     }
   ],
   "projects": [
