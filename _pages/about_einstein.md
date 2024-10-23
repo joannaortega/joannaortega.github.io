@@ -1,5 +1,7 @@
-Hello! I am Joanna Ortega. In case it wasn't clear, I write. I get paid to write as a technical writer and not so much as a creative writer. Regardless, I love doing both. 
+How to contact me:
+- LinkedIn: <https://www.linkedin.com/in/joanna-ortega/>
+- Email: joannaiortega@yahoo.com
 
-I work remotely exclusively from Texas. I have one dog with very expensive tastes (he does not work).
+If you want to see my Goodreads for what I'm reading:
+- <https://www.goodreads.com/user/show/116651763-joanna>
 
-Find me on LinkedIn!
