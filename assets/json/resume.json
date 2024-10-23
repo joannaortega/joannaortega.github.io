@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Joanna Ortega",
-    "label": "Writer",
+    "label": "Technical and Creative Writer",
     "image": "",
     "email": "joannaiortega@yahoo.com",
-    "phone": "(123) 123-4567",
+    "phone": "",
     "url": "https://joannaiortega.github.io",
-    "summary": "I like writing. Nuff said.",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,7 +30,7 @@
       "startDate": "2024-01-08",
       "endDate": "",
       "summary": "Product Documentation and Onboarding Courses",
-      "highlights": ["Relativity"]
+      "highlights": [""]
     }
   
   ],
@@ -41,40 +41,39 @@
       "url": "https://www.tamu.edu",
       "area": "English",
       "studyType": "BA",
-      "startDate": "2018-12-01",
-      "endDate": "2015-09-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2015-09-01",
+      "endDate": "2018-12-01",
+      "courses": ["Technical and Professional Writing", "Digital AUthoring Practices"]
     }
   ],
   "certificates": [
     {
-      "name": "TBD",
-      "date": "2018-01-01",
-      "issuer": "TBD",
-      "url": "https://example.com",
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": "",
       "icon": "fa-solid fa-location-dot"
     }
   ],
   "publications": [
     {
-      "name": "TBD",
-      "publisher": "TBD",
-      "releaseDate": "1905-06-30",
-      "url": "https://example.com",
-      "summary": "TBD"
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Writing",
+      "name": "Documentation",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Technical Documentation",
-        "Product Documentation",
-        "Procedure Documentation",
-        "Onboarding Course Creation"
+        "Technical",
+        "Product",
+        "Procedure",
+        "Onboarding"
       ]
     }
   ],
@@ -95,30 +94,27 @@
       "name": "Writing",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Technical",
+        "Professional",
+        "Creative"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     }
   ],
   "projects": [
     {
-      "name": "TBA",
-      "summary": "TBA",
+      "name": "Las Aventuras de Uncle Sam & Alex - De Camino a la Ciudadania",
+      "summary": "Spanish educational aid containing the US citizenship questions.",
       "highlights": ["writing", "publication"],
       "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "endDate": "2021-01-01",
+      "url": "https://www.montyramirezlaw.com/the-road-to-citizenship-begins-with-preparation-and-study"
     }
   ]
 }
