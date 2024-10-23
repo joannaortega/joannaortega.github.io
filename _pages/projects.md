@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Below are a list of several samples of technical writing I can do.
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
