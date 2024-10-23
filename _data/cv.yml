@@ -11,16 +11,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.A
+    - title: Bachelor of Arts
       institution: Texas A&M University, United States
-      year: 2018
+      year: 2015-2018
       description:
         - Major in English
         - Minor in Psychology
-        - title: Description 3.
+        - title: Relevant Courses
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - TecSnical and Professional Writing
+            - Digital Authoring Practices
+            - Creative Writing
 
 - title: Experience
   type: time_table
@@ -31,10 +32,6 @@
       description:
         - Product Documentation
         - Onboarding Training
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Specialist, Policy and Procedures
       institution: Texas Enrollment Broker at Maximus
       year: 2019 - 2024
@@ -43,26 +40,19 @@
         - Product Documentation
         - Procedure Documentation
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: TBD
-      year: 
-      description: 
-
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Technical Writing and Related fields
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Documentation, Product, Technical
+        - Programming Languages and API 2.
+    - title: Creative Writing/Fiction/Non-Fiction
       items:
-        - Description 1.
-        - Description 2.
+        - Latino/a Literature, i.e. Silvia Moreno Garcia
+        - Literature by Female/Women Identifying authors, 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading, Playing with my dog, Danya, etc.
