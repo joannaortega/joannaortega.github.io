@@ -312,12 +312,12 @@ display_categories: ["external-services"] # these categories will be displayed o
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-  scholar:
-     last_name: [Einstein]
-     first_name: [Albert, A.]
+scholar:
+    last_name: [Einstein]
+    first_name: [Albert, A.]
 
-      style: apa
-      locale: en
+  style: apa
+  locale: en
 
   source: /_bibliography/
   bibliography: papers.bib
