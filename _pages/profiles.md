@@ -14,6 +14,6 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 Texas, United States</p>
+      <p>Remote, Texas, United States</p>
       <p>joannaiortega@yahoo.com</p>
 ---
