@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /publications/
+permalink: 
 title: publications
 description: Publications will be posted as they happen.
-nav: true
-nav_order: 5
+nav: false
+nav_order:
 ---
 
 <!-- _pages/publications.md -->
