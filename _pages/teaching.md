@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Onboarding Courses
+title: onboarding
 description: Courses that I am allowed to post here will be displayed here.
 nav: true
 nav_order: 6
