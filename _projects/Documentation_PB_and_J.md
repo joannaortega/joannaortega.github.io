@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation - Peanut Butter and Jelly Sandwich
+title: Peanut Butter and Jelly Sandwich - Detailed
 description: Detailed information on how to make a PB&J
 img: assets/img/12.jpg
 importance: 1
