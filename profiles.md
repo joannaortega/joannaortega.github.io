@@ -1,9 +1,9 @@
 ---
 layout: profiles
-permalink: /people/
+permalink:
 title: people
 description:
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
