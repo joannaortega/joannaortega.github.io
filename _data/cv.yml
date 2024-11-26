@@ -60,22 +60,23 @@
         - Literature by Female Authors
 
 - title: Skills & Interests
-  type: list
+  type: nested_list
   contents:
-    - <u>Experience with the following programs:</u> 
-    - Camtasia
-    - Articulate
-    - Confluence
-    - Jira
-    - Github
-    - SnagIt
-    - Lucidchart
-    - Microsoft Products
-    - Google Drive
-    
-    -<u>Currently focused on learning more about:</u>
-    - API documentation (i.e., REST)
-    - GitHub and its site builders, i.e. Jekyll, Ruby, Atom
-    - Programming Languages (i.e., Python, Java vs JavaScript)
-    - Literature from Asian and Latin authors
-    - Crocheting
+    - title: Experience with the following programs
+      items:
+      - Camtasia
+      - Articulate
+      - Confluence
+      - Jira
+      - Github
+      - SnagIt
+      - Lucidchart
+      - Microsoft Products
+      - Google Drive
+    - title: Currently focused on learning more about
+      items:
+      - API documentation (i.e., REST)
+      - GitHub and its site builders, i.e. Jekyll, Ruby, Atom
+      - Programming Languages (i.e., Python, Java vs JavaScript)
+      - Literature from Asian and Latin authors
+      - Crocheting
