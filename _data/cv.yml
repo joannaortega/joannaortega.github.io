@@ -27,9 +27,16 @@
   type: time_table
   contents:
     - title: Specialist, Product Documentation
-      institution: ConnectionPoint at Maximus
+      institution: Business Solution Group at Maximus
       year: 2024 - present
       description:
+        - Product/Solution Documentation
+        - Procedure Documentation
+    - title: Specialist, Product Documentation
+      institution: ConnectionPoint at Maximus
+      year: 2024 - 2024
+      description:
+        - Product Team at ConnectionPoint dissolved on November 1, 2024. Documentation Team transferred to Business Solution Group.
         - Product Documentation
         - Onboarding Course Creation and Development
     - title: Specialist, Operations Policy and Procedures
@@ -52,11 +59,23 @@
         - Latino/a Literature, i.e. Silvia Moreno Garcia
         - Literature by Female Authors
 
-- title: Other Interests
+- title: Skills & Interests
   type: list
   contents:
-    - <u>Hobbies:</u> 
-    - Writing
-    - Reading
-    - Playing with my dog, Danya
-    - Watching Aggie Sports, i.e. Football, Baseball, etc.
+    - <u>Experience with the following programs:</u> 
+    - Camtasia
+    - Articulate
+    - Confluence
+    - Jira
+    - Github
+    - SnagIt
+    - Lucidchart
+    - Microsoft Products
+    - Google Drive
+    
+    -<u>Currently focused on learning more about:</u>
+    - API documentation (i.e., REST)
+    - GitHub and its site builders, i.e. Jekyll, Ruby, Atom
+    - Programming Languages (i.e., Python, Java vs JavaScript)
+    - Literature from Asian and Latin authors
+    - Crocheting
